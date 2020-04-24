@@ -1,6 +1,8 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
-
----
+# Svelte News App
+```
+Testing Svelta for News Media app.
+Very impressive resources and comonents
+```
 
 # svelte app
 
