@@ -1,7 +1,8 @@
 # Svelte News App
 ```
-Testing Svelta for News Media app.
-Very impressive resources and comonents
+First Look at Svelta for News Media app.
+Very impressive resources and components for quick prototyping
+
 ```
 
 # svelte app
